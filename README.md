@@ -7,6 +7,8 @@
 </p>
 
 ---
+![snake gif](https://github.com/iaguinho162/iaguinho162/blob/output/snake.svg)
+
 
 ## 🚀 Sobre mim
 - 💻 Desenvolvedor apaixonado pelo mundo da programação  
