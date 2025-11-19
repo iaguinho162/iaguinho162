@@ -50,10 +50,6 @@
 
 ---
 
-## 🐍 Animação da cobrinha (commits)
-<p align="center">
-  <img src="https://github.com/iaguinho162/iaguinho162/blob/output/snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
